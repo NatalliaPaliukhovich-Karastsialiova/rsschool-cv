@@ -6,7 +6,7 @@
 
 ---
 
-![Profile icon](https://icons8.com/icon/zxB19VPoVLjK/user) ### **Profile**
+### **Profile**
 SAP Cloud for Sales/Service more than 6 years experience<br>
 SAP CPI Developer with more than 4.5+ years experience<br>
 SAP BTP Cloud Developer with more than 2.5+ years experience<br>
@@ -18,8 +18,8 @@ Successfully passed 6 SAP certifications
 ---
 
 ### **Contact**
-- ![Phone icon](https://icons8.com/icon/WV326xpsBMyb/phone) +998 90 829-02-24
-- ![Phone icon](https://icons8.com/icon/WV326xpsBMyb/phone) +375 44 472-66-69
+- ![Phone icon](https://img.icons8.com/?size=100&id=jShwZ2RCyPSO&format=png&color=000000) +998 90 829-02-24
+- ![Phone icon](https://img.icons8.com/?size=100&id=jShwZ2RCyPSO&format=png&color=000000) +375 44 472-66-69
 - ![Email icon](https://img.icons8.com/?size=100&id=38108&format=png&color=000000) n.paliukhovich98@gmail.com  
 - ![Discord icon](https://img.icons8.com/?size=100&id=30998&format=png&color=000000) n.paliukhovich98
 - ![City icon](https://img.icons8.com/?size=100&id=13246&format=png&color=000000) Uzbekistan, Tashkent 
@@ -35,7 +35,7 @@ IT-Academy (2020)
 
 ---
 
-![Bag icon](https://icons8.com/icon/21819/bag) ### **Work Experience**
+### **Work Experience**
 
 #### **SAP** (2023 - 2025)
 **Key Software engineer**
@@ -81,7 +81,7 @@ IT-Academy (2020)
 
 ---
 
-![Certificate icon](https://img.icons8.com/?size=100&id=Y87spUd4rez7&format=png&color=000000) ### **Certifications**
+### **Certifications**
 - SAP: SAP Certified Development Associate - SAP Extension Suite
 - SAP: SAP Certified Application Associate - SAP Service Cloud 1911
 - SAP: SAP Certified Application Associate - SAP Sales Cloud 1911
@@ -97,7 +97,7 @@ IT-Academy (2020)
 
 ---
 
-![Code icon](https://icons8.com/icon/37927/code-file) ### **Code**
+### **Code**
 
 ```javascript
 function toCamelCase(str){
