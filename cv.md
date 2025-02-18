@@ -39,7 +39,7 @@ IT-Academy (2020)
 
 #### **SAP** (2023 - 2025)
 **Key Software engineer**
-- Support multiple customers.  
+- Support multiple customers 
 - Estimating and implementation new Change Requests
 - Analyzing performance issues
 
