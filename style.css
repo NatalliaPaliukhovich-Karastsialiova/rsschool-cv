@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --primary-color: #F8F7F3;
+    --dark-green-color: #555E50;
+    --powder-color: #ECE2DA;
+    --brown-light-color: #C5AF99;
+    --font-family: Poppins, serif;
+}
+
+.cv-container {
+    width: 80%;
+    margin: auto;
+    background-color: var(--primary-color);
+    font-family: var(--font-family);
+    box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.4);
+
+}
+
+.header {
+    display: flex;
+    justify-content: end;
+    width: 100%;
+    background-color: var(--brown-light-color);
+}
+
+.menu {
+    margin: 20px;
+}
+
+.menu__item {
+    display: inline;
+    padding: 10px 15px;
+    text-transform: uppercase;
+}
+
+.menu__item__link {
+    text-decoration: none;
+    color: white;
+}
+
+.menu__item:hover {
+    background-color: var(--dark-green-color);
+    border-radius: 10px;
+}
+
+.content {
+    background-color: var(--secondary-color);
+    display: flex;
+}
+
+.left-column {
+    width: 40%;
+}
+
+.right-column {
+    width: 60%;
+}
+
+.personal-info-container {
+    background-color: var(--powder-color);
+    padding: 5% 13%;
+}
+
+.photo {
+  width: 100%;
+  height: 100%;
+  background-color: var(--brown-light-color);
+  border-radius: 50% 50% 0% 0%;
+
+}
+
+.name-section.section {
+    background-color: var(--dark-green-color);
+    padding-top: 100px;
+    padding-bottom: 70px;
+
+}
+
+.section {
+    padding: 40px 40px 0px;
+}
+
+.rmv-padding-right-bottom {
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
+
+.font-white {
+    color: white;
+}
+
+.h1 {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 40px;
+}
+
+.h2 {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.half-line {
+    width: 15%;
+    margin: 20px 0 35px;
+}
+
+.arrow-down {
+    height: 50px;
+}
+
+.name-container {
+    display: flex;
+}
+
+.section-title {
+    text-transform: uppercase;
+    font-size: 32px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.list-mark {
+    width: 15px;
+    height: 15px;
+    margin-right: 15px;
+}
+
+.list {
+    list-style-type: none;
+}
+
+.list__item {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.section-line {
+    border-color: var(--dark-green-color);
+    margin-bottom: 10px;
+}
+
+.line-bottom {
+    border-bottom: 1.5px solid var(--dark-green-color);
+    margin-bottom: 10px;
+}
+
+.h4 {
+    font-size: 16px;
+}
+
+.cert-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.year {
+    background-color: var(--dark-green-color);
+    padding: 5px 20px;
+    border-radius: 50px;
+    font-weight: 200;
+}
+
+.education-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.icon-wrapper {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    border: 2px solid var(--dark-green-color);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.contact-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.code {
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 3px;
+}
+
+.code-wrapper {
+    background-color: var(--brown-light-color);
+    color: white;
+    padding: 10px;
+}
+
+.project-link {
+    text-decoration: none;
+    color: var(--dark-green-color);
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.footer {
+    background-color: var(--dark-green-color);
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.footer-link {
+    color: white;
+    text-decoration: none;
+}
+
+.created-by {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    flex-direction: column;
+}
